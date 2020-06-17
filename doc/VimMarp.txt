@@ -1,0 +1,8 @@
+*VimMarp.txt* Plugin for rendering marp presentations as you go
+
+Usage: Within a markdown file, use the command `:MarpRender` to open a pdf of
+your rendered presentation. On writing the file the pdf will update.
+`:MarpRender` will toggle this feature.
+
+Dependencies: This plugin requires the Marp CLI to installed as well as
+AsyncRun (skywind3000/asyncrun.vim).
