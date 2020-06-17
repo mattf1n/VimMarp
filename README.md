@@ -15,7 +15,7 @@ from `mattf1n/VimMarp.vim`.
 
 ## Usage
 
-In a markdown file use the command `:MarpRender` to toggle rendering your marp
+In a markdown file use the command `:VimMarp` to toggle rendering your marp
 presentation.
 
 
